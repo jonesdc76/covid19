@@ -1,1 +1,1 @@
-Simple jupyter notebooks to retrieve COVID-19 data from the NYT and Atlantic Covid-19 projects and plot key parameters.
+Simple jupyter notebooks to retrieve COVID-19 data from the NYT and Atlantic Covid-19 projects. New cases/day, deaths/day and hospitalizations/day are plotted versus time with a simple 7-day central moving average overlay.
